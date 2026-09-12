@@ -1,0 +1,9 @@
+modelo\Propietario.class
+Main.class
+modelo\Animal.class
+controlador\ClinicaController.class
+modelo\Consulta.class
+modelo\Mascota.class
+modelo\Veterinario.class
+modelo\Medicamento.class
+vista\VeterinariaVista.class
