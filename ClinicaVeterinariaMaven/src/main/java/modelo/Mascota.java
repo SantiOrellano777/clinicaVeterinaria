@@ -1,5 +1,5 @@
 package modelo;
-
+//fs
 /**
  * Representa la mascota concreta de un Propietario.
  * Hereda de Animal (relación de HERENCIA).
